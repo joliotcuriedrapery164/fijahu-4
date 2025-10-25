@@ -1,0 +1,9 @@
+{
+  "name": "fijahu-4",
+  "description": "A simple PHP project",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4"
+  }
+}
